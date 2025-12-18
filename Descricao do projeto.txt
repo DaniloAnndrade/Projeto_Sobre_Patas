@@ -1,0 +1,5 @@
+Esse projeto sera sobre a criação de um aplicativo de cadastro de animais para fins veterinario.Nele sera possivel cadastrar os pets, criando um prontuario
+tento a informaçãos tecnincar do animal, assim como as informações do tutor.
+
+no aplicativo e possivel receber informações como, resultado de exames, marcar consultas informar o estado atual do pets.
+ 
