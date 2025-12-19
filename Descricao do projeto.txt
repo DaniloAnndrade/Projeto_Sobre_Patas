@@ -3,3 +3,4 @@ tento a informaçãos tecnincar do animal, assim como as informações do tutor.
 
 no aplicativo e possivel receber informações como, resultado de exames, marcar consultas informar o estado atual do pets.
  
+Aqui Ja e possivel ver o disigner do aplicativo.
