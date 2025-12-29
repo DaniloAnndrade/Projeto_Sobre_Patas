@@ -5,4 +5,4 @@ no aplicativo e possivel receber informações como, resultado de exames, marcar
  
 Aqui Ja e possivel ver o disigner do aplicativo.
 
-logo mais sera disponibilizado o codigo do aplicativo
+logo mais sera disponibilizado o codigo do aplicativo. ok
