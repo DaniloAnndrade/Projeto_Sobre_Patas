@@ -21,4 +21,7 @@ dependencyResolutionManagement {
 
 rootProject.name = "sobre_patas"
 include(":app")
+<<<<<<< HEAD
  
+=======
+>>>>>>> staging
